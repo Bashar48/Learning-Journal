@@ -41,6 +41,11 @@ for images same as before but the first part is preceded by !
 
 
 
+### ~~ps. there are much more commands but these are the ones most commonly used~~
+
+
+
+
 
 
 
