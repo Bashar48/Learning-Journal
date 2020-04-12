@@ -19,7 +19,7 @@ A person with a growth mindset will always learn from other people success stori
 
 
 
-~~ nothing to see her now move along! ~~
+ ~~nothing to see her now move along~~ 
 
 
 
