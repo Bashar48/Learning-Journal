@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+##Welcome  to my repo dear Reader
+#**Growth mindsets by:Bashar AL Dabbas**
+###***What is a growth mindset?*** ####Many people may wonder about this term when they first ever hear it , for everyone knows what growth and mindset means indivisually but combining such two words gives a totally different meaning aswell as a lifestyle. A Growth mindset is whenever a person is open to develop his/her knowledge , abilities and potential and its the direct contrary to fixed mindset when a person is completely unwilling to do so. Growth mindset takes in many aspects,For the sake of information we could walkthrough a few of them:
+###**Challenges**###
+####A person with a growth mindset approches challenges with a heroic spirit willing to take on any and prevail eventually.
+###**obstacles**##
+####Sometimes along the way certain problems appear and make progress difficult but a person with a growth mindset will always find a way around that.
+###**critism**##
+####A person with a growth mindset is always open to critisim and is willing to make usefl mends to his approach and listen to oustide opinions.
+###**sucssess of others**###
+####A person with a growth mindset will always learn from other people success stories and try to add from theirs to his and will not be threatend by them
 
-You can use the [editor on GitHub](https://github.com/Bashar48/Learning-Journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+~~nothing to see her now move along! ~~
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Bashar48/Learning-Journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
