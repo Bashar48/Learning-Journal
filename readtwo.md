@@ -19,6 +19,6 @@ every thing in linux is a file even directories , it doesnt care about extension
 also usefl commands are file (type of file directory)  , ls-a (list directory  contents even hidden files).
 
 
-
+[cheat sheet](https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners)
 
 ~~im soo tired~~
