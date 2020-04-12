@@ -16,8 +16,8 @@ A person with a growth mindset will always learn from other people success stori
 
 #### reminders on how to stay a growth mindset
 1.Accept challenges with a will of victory
-1.be always open to recive criticiscm to benefit from outside opinions
-1.treat other peoples success as motive and a drive froward to achieve your own
+2.be always open to recive criticiscm to benefit from outside opinions
+3.treat other peoples success as motive and a drive froward to achieve your own
 
 
 ![]
