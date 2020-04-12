@@ -8,7 +8,7 @@ Many people may wonder about this term when they first ever hear it , for everyo
 ### - **Challenges**
 A person with a growth mindset approches challenges with a heroic spirit willing to take on any and prevail eventually.
 ### - **obstacles**
-find a way around that.
+ A person with a growth mindset will always face troubles that affect his progress but he will eventually find a way around that.
 ### - **criticism**
 A person with a growth mindset is always open to critisim and is willing to make usefl mends to his approach and listen to oustide opinions.
 ### - **sucssess of others**
@@ -16,8 +16,8 @@ A person with a growth mindset will always learn from other people success stori
 
 #### Reminders on how to stay a growth mindset
 1. **Accept challenges with a will of victory.**
-2. **be always open to recive criticiscm to benefit from outside opinions.**
-3. **treat other peoples success as motive and a drive froward to achieve your own.**
+2. **be always open to recieve criticiscm to benefit from outside opinions.**
+3. **treat other peoples success as motive and a drive forward to achieve your own.**
 
 
 
@@ -34,7 +34,6 @@ Bashar faisal ALDabbas a civil engineering graduate learning software developmen
 
 
 
- ~~nothing left for you to see now  move along!~~ :see_no_evil:
-
+ ~~nothing left for you to see now  move along!~~ 
 
 
