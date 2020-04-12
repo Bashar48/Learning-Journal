@@ -26,9 +26,18 @@ ordered lits 1. 2. 3.: use 1. space type youre list first component then 1. spac
 1. second item 
 1. third item 
 
+unordered ones are simply preceded by * then space 
+* unorderd x
+* unordered y
+* unorderd z
+
 * **images and links**
+
 for links use square brackets for the clickable text and paranthesis for the actual link
 [my github profile](https://github.com/settings/profile)
+
+for images same as before but the first part is preceded by !
+![niceview](https://q-cf.bstatic.com/images/hotel/max1024x768/142/142690158.jpg)
 
 
 
