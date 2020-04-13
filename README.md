@@ -1,7 +1,12 @@
 # Learning-Journal
 this is my first repository
 
-## Welcome  to my repo dear Reader
+## Welcome  to my learning journal
+
+
+### Introduction 
+My name is Bashar Al Dabbas I am a civil engineering graduate and im studying software Engineering at LTUC
+
 
 
 ### **Table of content** 
@@ -13,6 +18,6 @@ this is my first repository
   [Mastering markdown](https://bashar48.github.io/Learning-Journal/Readone)| Article
   [TEXT EDITING](https://bashar48.github.io/Learning-Journal/readtwo)| Article
   [A GIT TUTORIAL](https://bashar48.github.io/Learning-Journal/readthree) | Article
-  [HTML]()| Article
+  [HTML](https://bashar48.github.io/Learning-Journal/readfour)| Article
 
                              

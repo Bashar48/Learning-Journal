@@ -53,7 +53,10 @@ But first let me tell you about version control systems or VCSs.
  1. this is optional but if you want a cloud service for git Github is the place to go 
 
  ## And now some codes usful for you  using git
-* first off u need to have a depository u can create that from Github
+ 
+ 
+ 
+* first off u need to have a depository u  can create that from Github
 * to import depository click clone/download from github
 then use code git clone and paste your URL
 * now use code . to open vs code and start coding rememeber to save your progress!
