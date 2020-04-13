@@ -1,3 +1,10 @@
+## **[BACK](https://bashar48.github.io/Learning-Journal/)**
+
+
+
+
+
+
 # Text editors, commandlines,basic navigation and about file
 * ##  **Text editors**
 first off there are two types of text editors mainly : word editors and code editors , what we are interested in here are code editors such as notpad ++ , atom and visual studio code
