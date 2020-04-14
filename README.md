@@ -19,5 +19,8 @@ My name is Bashar Al Dabbas I am a civil engineering graduate and im studying so
   [TEXT EDITING](https://bashar48.github.io/Learning-Journal/readtwo)| Article
   [A GIT TUTORIAL](https://bashar48.github.io/Learning-Journal/readthree) | Article
   [HTML](https://bashar48.github.io/Learning-Journal/readfour)| Article
+  [CSS](https://bashar48.github.io/Learning-Journal/readfive)|Article
+  [JAVA SCRIPT](https://bashar48.github.io/Learning-Journal/readsixa) | Article
+  [Computer](https://bashar48.github.io/Learning-Journal/readsixb)|Article
 
                              

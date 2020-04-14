@@ -1,5 +1,6 @@
+## **[BACK](https://bashar48.github.io/Learning-Journal/)**
 
-# how computers work 
+# How computers work 
 
 A computer is a machine that intakes input processes it stores it and show results of that operation as output.
 
